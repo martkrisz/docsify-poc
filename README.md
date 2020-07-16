@@ -1,3 +1,3 @@
 # Headline
 
-> An awesome project.asdasd
+> An awesome project.
