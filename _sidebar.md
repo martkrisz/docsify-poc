@@ -1,0 +1,6 @@
+* [Home](/)
+* [Guide](guide.md)
+* [Docs](docs/README.md)
+  * [Docs1](docs/docs1.md)
+  * [Subdocs](docs/subdocs/README.md)
+    * [Subdocs1](docs/subdocs/subdocs1.md)
